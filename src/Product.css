@@ -1,0 +1,33 @@
+.ungu{
+    color: blueviolet;
+}
+.prdct{
+    text-align: center;
+    background: grey;
+}
+.col{
+    height: 100px;
+    width: 100px;
+}
+.table{
+    background: white;
+    border-spacing: 30px;
+    
+ 
+    
+}
+td{
+
+    border: 1px solid gray;
+}
+img{
+    width: 314px;
+}
+table{
+    text-align: center;
+    width: 24%;
+    position: relative;
+}
+h3{
+    color: orangered;
+}
